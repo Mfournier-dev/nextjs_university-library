@@ -8,6 +8,27 @@
       "when": 1738859860974,
       "tag": "0000_complete_jamie_braddock",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1740064114762,
+      "tag": "0001_acoustic_captain_cross",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1740071347067,
+      "tag": "0002_melodic_hellfire_club",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1740152332696,
+      "tag": "0003_breezy_jasper_sitwell",
+      "breakpoints": true
     }
   ]
 }
